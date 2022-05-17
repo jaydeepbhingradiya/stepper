@@ -1,0 +1,15 @@
+.title {
+  padding-top: 1rem;
+  text-align: center;
+  font-size: x-large;
+}
+.btn {
+  display: flex;
+  justify-content: space-between;
+
+  margin: 1rem;
+}
+.btn input {
+  padding: 0.5rem;
+  border-radius: 3px;
+}

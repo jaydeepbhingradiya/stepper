@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+.step {
+  margin-top: 1rem;
+  margin-left: 2rem;
+  margin-right: 1rem;
+}
+.steps {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 3rem;
+}
+.profile {
+  width: 30%;
+}
+.paper {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  margin-right: 2rem;
+}
+.cls-btn {
+  text-align: right;
+}
+.skills {
+  margin-left: 10px;
+  width: 91%;
+}
+.img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.cv {
+  width: 15%;
+}
+.chip p {
+  color: rgb(202, 24, 24);
+  font-size: small;
+  margin-top: -5px;
+  margin-left: 19px;
+  /* padding-top: -10px; */
+}
+
+.table {
+  margin: 1rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
